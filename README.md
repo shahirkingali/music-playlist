@@ -1,5 +1,5 @@
 # music-playlist
-# This pyhton project is using linked list to add new ongs, remove songs, search fro songs. and get length of the playlist. 
+# This pyhton project is using linked list to add new ongs, remove songs, search for songs. and get length of the playlist. 
 # Learning Outcomes
 By completing this project, you should be able to…
 # Create a linked list using an OOP approach
